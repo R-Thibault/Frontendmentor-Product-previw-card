@@ -39,7 +39,7 @@ Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to t
 
 ### Links
 
-- Solution URL: https://github.com/thiouioui/Frontendmentor-Product-previw-card.git
+- Solution URL: https://thiouioui.github.io/Frontendmentor-Product-previw-card/
 
 ## My process
 
